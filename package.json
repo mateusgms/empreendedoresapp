@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mateusgms/empreendedoresapp#readme",
   "dependencies": {
     "koa": "^2.5.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.26.0"
   }
 }
