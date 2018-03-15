@@ -1,0 +1,19 @@
+{
+  "name": "empreendedoresapp",
+  "version": "1.0.0",
+  "description": "app para os empreendedores da cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusgms/empreendedoresapp.git"
+  },
+  "author": "Mateus Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusgms/empreendedoresapp/issues"
+  },
+  "homepage": "https://github.com/mateusgms/empreendedoresapp#readme"
+}
